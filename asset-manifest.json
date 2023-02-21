@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sabamuent-apk/static/css/main.073c9b0a.css",
+    "main.js": "/sabamuent-apk/static/js/main.314f97de.js",
+    "service-worker.js": "/sabamuent-apk/service-worker.js",
+    "index.html": "/sabamuent-apk/index.html",
+    "main.073c9b0a.css.map": "/sabamuent-apk/static/css/main.073c9b0a.css.map",
+    "main.314f97de.js.map": "/sabamuent-apk/static/js/main.314f97de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.314f97de.js"
+  ]
+}
