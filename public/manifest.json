@@ -18,8 +18,14 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "start_url": ".https://sabamuent.com/login/",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#e61b1b",
+  "background_color": "#ffffff",
+  "description": "SABAMUENT DATA SUBSCRIPTION",
+  "dir": "auto",
+  "scope": "https://sabamuent.com",
+  "lang": "en",
+  "orientation": "any",
+  "categories": ["business"]
 }
