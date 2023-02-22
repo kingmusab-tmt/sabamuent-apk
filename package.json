@@ -1,8 +1,8 @@
 {
-  "name": "sabamuent",
+  "name": "SABAMUENT",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kingmusab-tmt.github.io/sabamuent-apk",
+  "homepage": "https://kingmusab-tmt.github.io/sabamuent-apk/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -10,7 +10,9 @@
     "bubblewrap": "^0.2.0",
     "gh-pages": "^5.0.0",
     "react": "^18.2.0",
+    "react-bootstrap": "^2.7.2",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.8.1",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4",
     "workbox-background-sync": "^6.5.4",

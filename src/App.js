@@ -1,11 +1,11 @@
 import React from "react";
 import "./App.css";
-import Redirect from "./Redirect";
+import Welcome from "./Welcome";
 
 function App() {
   return (
     <div className="App">
-      <Redirect />
+      <Welcome />
     </div>
   );
 }
