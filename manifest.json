@@ -18,13 +18,12 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "login.sabamuent.com",
+  "start_url": "https://kingmusab-tmt.github.io/sabamuent-apk/",
   "display": "standalone",
   "theme_color": "#e61b1b",
   "background_color": "#ffffff",
   "description": "SABAMUENT DATA SUBSCRIPTION",
   "dir": "auto",
-  "scope": "sabamuent.com",
   "lang": "en",
   "orientation": "any",
   "categories": ["business"]
