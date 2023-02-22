@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sabamuent-apk/static/css/main.073c9b0a.css",
-    "main.js": "/sabamuent-apk/static/js/main.926dc69b.js",
+    "main.js": "/sabamuent-apk/static/js/main.74ec37d4.js",
     "service-worker.js": "/sabamuent-apk/service-worker.js",
     "static/media/logo192.png": "/sabamuent-apk/static/media/logo192.b71520954f6501b854c3.png",
     "index.html": "/sabamuent-apk/index.html",
     "main.073c9b0a.css.map": "/sabamuent-apk/static/css/main.073c9b0a.css.map",
-    "main.926dc69b.js.map": "/sabamuent-apk/static/js/main.926dc69b.js.map"
+    "main.74ec37d4.js.map": "/sabamuent-apk/static/js/main.74ec37d4.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.926dc69b.js"
+    "static/js/main.74ec37d4.js"
   ]
 }
